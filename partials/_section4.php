@@ -1,6 +1,6 @@
 <div class="text-center">
     <h1 class=" font-bold text-4xl pt-10 underline">Formulaire de Contact</h1>
-    <form action="" method="POST" class="grid place-items-center bg-gray-100 mx-96 py-10 my-16 gap-y-4 rounded-xl">
+    <form action="" method="POST" class="grid place-items-center bg-gray-100 mx-2 2xl:mx-96 py-10 my-16 gap-y-4 rounded-xl">
         <!--input prenom/nom  -->
         <div class="flex space-x-16">
             <div class="mb-4">
