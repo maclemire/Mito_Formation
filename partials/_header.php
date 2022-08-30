@@ -28,7 +28,7 @@
                         </svg>
                     </a>
                     <ul class="p-2 bg-base-100">
-                        <li><a href="index.php">Acceuil</a></li>
+                        <li><a href="index.php">Accueil</a></li>
                         <li><a href="formateurs.php">Formateurs</a></li>
                         <li><a href="stagiaires.php">Stagiaires</a></li>
                     </ul>
